@@ -81,6 +81,9 @@ nav .name {
     text-decoration: none;
 }
 
+.name a {
+    color: #606c38;
+
 a:visited {
     color: #283618;
 }
