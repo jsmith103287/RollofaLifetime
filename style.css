@@ -82,7 +82,7 @@ nav .name {
 }
 
 .name a {
-    color: #606c38;
+    color: #606c38; }
 
 a:visited {
     color: #283618;
@@ -97,7 +97,8 @@ a:visited {
     margin-left: 1rem;
     float: left;
     position: absolute;
-    transition: opacity 300ms
+    transition: opacity 300ms;
+    max-width: 2rem;
 }
 
 .logo:hover {
